@@ -1,4 +1,9 @@
 Development/Queue/terraform.tfvars
+Development/Queue/variables.tf
 Production/Queue/terraform.tfvars
+Production/Queue/variables.tf
+
 Test/Queue/terraform.tfvars
+Test/Queue/variables.tf
+
 
