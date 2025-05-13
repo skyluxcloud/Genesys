@@ -2,3 +2,10 @@ Development/Queue/terraform.tfvars
 Production/Queue/terraform.tfvars
 Test/Queue/terraform.tfvars
 
+Development/Data Tables/terraform.tfvars
+Production/Data Tables/terraform.tfvars
+Test/Data Tables/terraform.tfvars
+
+
+
+
